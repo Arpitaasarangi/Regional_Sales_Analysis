@@ -60,7 +60,7 @@ While the core of this project focuses on data engineering and analysis, a dashb
 - Total Orders: Count of all sales orders
 - Revenue per Order: Average revenue generated per order
 - Profit Margin %: Overall profitability ratio
-- 
+  
 ### Visualization Charts :
 - Line Chart – Monthly Revenue & Monthly Profit
 Displays seasonal trends and performance over time to identify peaks and dips in sales and profitability.
